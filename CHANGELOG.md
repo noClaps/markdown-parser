@@ -1,5 +1,11 @@
 # @noclaps/znak
 
+## 0.4.1
+
+### Patch Changes
+
+- 9931b07: Fix custom elements nested inside lists
+
 ## 0.4.0
 
 ### Minor Changes
